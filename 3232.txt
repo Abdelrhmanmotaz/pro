@@ -1,0 +1,16 @@
+edit in style-ar 
+edit in logo broswer tab
+edit in meta 
+edit in app.js 
+home.html 
+about.html
+ملحوظه ملف ال 
+map.js
+contact edit
+home page sliders
+images changes
+servies_section
+navbar
+base.html
+footer
+services
